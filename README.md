@@ -1,6 +1,5 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
-<!--
 **AliceAndree/AliceAndree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="78px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="78px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="78px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="78px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="78px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <br />
+  <br />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=AliceAndree&show_icons=true&theme=dracula&&hide_border=true"/>
+  
+  <br />
+  <br />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliceAndree&&theme=dracula&&hide_border=true"/>
+</div>
