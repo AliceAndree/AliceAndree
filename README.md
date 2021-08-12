@@ -29,5 +29,5 @@ Here are some ideas to get you started:
   <br />
   <br />
   
-  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=AliceAndree&&theme=dracula&&hide_border=true"/>-->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliceAndree&&background=fffce8&&ring=ee4f34&&fire=ffe854&&currStreakNum=4ba5ea&&sideNums=4ba5ea&&currStreakLabel=ee4f34&&sideLabels=ee4f34&&dates=4ba5ea&&hide_border=true"/>
 </div>
