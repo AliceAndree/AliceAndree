@@ -24,10 +24,10 @@ Here are some ideas to get you started:
   <br />
   <br />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=AliceAndree&show_icons=true&theme=dracula&&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AliceAndree&show_icons=true&title_color=ee4f34&bg_color=fffce8&text_color=4ba5ea&icon_color=ffe854&&hide_border=true"/>
   
   <br />
   <br />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliceAndree&&theme=dracula&&hide_border=true"/>
+  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=AliceAndree&&theme=dracula&&hide_border=true"/>-->
 </div>
