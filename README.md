@@ -14,20 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="78px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="78px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="78px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="78px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="78px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <br />
-  <br />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=AliceAndree&include_all_commits=true&show_icons=true&title_color=ee4f34&bg_color=fffce8&text_color=4ba5ea&icon_color=ffe854&&hide_border=true"/>
-  
-  <br />
-  <br />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliceAndree&&background=fffce8&&ring=ee4f34&&fire=ffe854&&currStreakNum=4ba5ea&&sideNums=4ba5ea&&currStreakLabel=ee4f34&&sideLabels=ee4f34&&dates=4ba5ea&&hide_border=true"/>
-</div>
+# Hi, I'm Alice Andrée (she / her) 👋🏻 ✨
+
+![](github-banner.png)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alice-andree-thiel/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/alice____andree/)
+
+# About Me:
+🔭 I’m currently looking for a new job opportunity<br>🌱 I’m currently updating my knowledge in web development with The Odin Project<br>💬 Ask me about why I think coding is a creative process<br>⚡ Fun fact: I used to work as a Backend Developer and switched carreer for a few years.
+
+# Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
